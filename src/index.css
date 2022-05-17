@@ -13,4 +13,10 @@ body {
 } */
 
 
+.done {
+  background-color: green;
+}
+.undone {
+  background-color: red;
+}
 
