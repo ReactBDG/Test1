@@ -1,0 +1,3 @@
+export const GET_CHARACTERS_SUCCESS = "characters/GET_CHARACTERS_SUCCESS";
+export const GET_CHARACTERS_ERROR = "characters/GET_CHARACTERS_ERROR";
+export const GET_CHARACTERS_LOADING = "characters/GET_CHARACTERS_LOADING";
