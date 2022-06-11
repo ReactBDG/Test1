@@ -20,3 +20,6 @@ body {
   background-color: red;
 }
 
+nav.small > a {
+  font-size: 6px ;
+}

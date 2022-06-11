@@ -40,3 +40,8 @@
 /* li {
   background: url('./logo192.png');
 } */
+
+
+nav.small > a {
+  font-size: 6px;
+}
